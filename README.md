@@ -5,9 +5,13 @@ Company: CODTECH IT SOLUTIONS
 ID: CT080D673 
 
 Domain: DevOps 
+
 Duration: December 12th to January 12th,2025 
+
 Mentor: Muzammil 
+
 Overview of the Project: Docker Containerization
+
 Project Title: Docker Containerization for Web Application
 
 Objective: The main goal of this project is to containerize a simple web application using Docker to create a portable, isolated, and consistent environment for running the application across different machines or environments. Docker allows us to define the environment, including all necessary dependencies, in a container, making the application easily deployable and scalable.
